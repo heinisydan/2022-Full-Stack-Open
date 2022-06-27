@@ -1,1 +1,1 @@
-Getting to know fullstackopen.com
+Getting to know https://fullstackopen.com/
