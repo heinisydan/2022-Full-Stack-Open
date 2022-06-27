@@ -1,1 +1,1 @@
-# 2022-Full-Stack-Open
+Getting to know fullstackopen.com
